@@ -1,0 +1,14 @@
+nav {}
+
+ul {
+    display: flex;
+    justify-content: center;
+}
+
+li {
+    list-style: none;
+    padding: 10px;
+    margin-inline: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
