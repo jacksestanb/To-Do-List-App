@@ -1,3 +1,7 @@
+# To-Do-List-App
+In this project I took on the task of building my first to-do list app using React. Using the import {useState} package from React i used various different methods to build my first project!
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
